@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+   
+
+}
+input{
+    font-size: 45px;
+    width: 75px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 10px;
+        background-color: black;
+
+}
+.btn{
+    color:white;
+    
+}
+.btn:hover{
+    cursor: pointer;
+}
